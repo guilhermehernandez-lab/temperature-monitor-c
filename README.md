@@ -12,5 +12,7 @@ This project simulates a temperature monitoring system using C.
 
 ## How to run
 At the terminal you should introduce: 
+
 gcc temperature_monitor.c -o monitor
+
 ./monitor
