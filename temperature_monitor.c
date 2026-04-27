@@ -9,7 +9,6 @@ float getTemperature() {
 int main() {
     FILE *file;
 
-    // abrir ficheiro para guardar dados
     file = fopen("data.txt", "a");
 
     if (file == NULL) {
